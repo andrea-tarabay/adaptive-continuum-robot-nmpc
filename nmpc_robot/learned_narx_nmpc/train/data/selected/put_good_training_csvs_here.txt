@@ -1,0 +1,1 @@
+Copy only good CSV runs here before training. Keep one CSV per run.

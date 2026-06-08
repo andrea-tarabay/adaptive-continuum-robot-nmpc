@@ -1,0 +1,15 @@
+experiment=A_bend_space
+cost_output=[theta*cos(phi),theta*sin(phi),phi_dot,theta_dot]
+test_fixed_pose=False
+USE_FIXED_POINT_SEQUENCE=False
+target_phi_deg=-45.0
+target_theta_deg=40.0
+theta_trajectory_deg=60.0
+phi_start_deg=-45.0
+T_loop=45.0
+T=55.0
+direction=cw
+FIXED_POINT_THETA_DEG=35.0
+pretension_n=0.45
+u_bound=[0.3, 4.0]
+v_bound=[-3.5, 3.5]
